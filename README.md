@@ -7,7 +7,7 @@ I use this implementation as an image server to resize, reformat and cache image
 Doras includes sample configurations for two scenarios:
 
 - Retrieving images from Microsoft Azure blob storage and caching the processed images on disk, and;
-- Retrieving images from Microsoft Azure blob storage and caching the processed images in the same or different blob storage container.
+- Retrieving images from Microsoft Azure blob storage and caching the processed images in the same or in a different blob storage container.
 
 Refer to the ImageProcessor [documentation](http://imageprocessor.org/imageprocessor-web/) for API details.
 
