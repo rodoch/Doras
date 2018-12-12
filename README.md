@@ -2,7 +2,7 @@
 
 This is a reference implementation of the excellent [ImageProcessor](http://imageprocessor.org/) library.
 
-I use this implementation as an image server to resize, reformat and cache images on-the-fly for other web applications. I wanted to have a reference repository that could be dropped into new applications with minimal configuration. I originally created this implementation for my clients at [Fiontar & Scoil na Gaeilge, DCU](https://www.gaois.ie/).
+I use this implementation as an image server to resize, reformat and cache images on the fly for other web applications. I wanted to have a reference repository that could be dropped into new applications with minimal configuration. I originally created this implementation for my clients at [Fiontar & Scoil na Gaeilge, DCU](https://www.gaois.ie/).
 
 Doras includes sample configurations for two scenarios:
 
