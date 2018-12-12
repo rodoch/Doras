@@ -9,6 +9,8 @@ Doras includes sample configurations for two scenarios:
 - Retrieving images from Microsoft Azure blob storage and caching the processed images on disk, and;
 - Retrieving images from Microsoft Azure blob storage and caching the processed images in the same or in a different blob storage container.
 
+Doras includes the [WebP](http://imageprocessor.org/imageprocessor/plugins/webp/) plugin and supports conversion to WebP from other image formats.
+
 Refer to the ImageProcessor [documentation](http://imageprocessor.org/imageprocessor-web/) for API details.
 
-Doras is a .NET Framework 4.6.1 application. I intend to upgrade to a .NET Core implementation once the successor to ImageProcessor, [ImageSharp](https://github.com/SixLabors/ImageSharp) becomes stable.
+Doras is a .NET Framework 4.6.1 application. I intend to upgrade to a .NET Core implementation once the successor to ImageProcessor, [ImageSharp](https://github.com/SixLabors/ImageSharp), becomes stable.
